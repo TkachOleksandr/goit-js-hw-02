@@ -1,3 +1,5 @@
-node-modules
+node_modules
+.bin
+prettier
 package-lock.json
 package.json
